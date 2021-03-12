@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class AppTest {
 
 	public void testApp() {
+		System.out.println("WELCOME TO GITHUB DEMO...");
 		assertTrue(true);
 	}
 }
