@@ -1,7 +1,7 @@
 package com.jyotisoft.example;
 
 public class Message {
-	private String user ="DurgaSoft";
+	private String user ="Durga";
 
 	public String getUser() {
 		return user;
