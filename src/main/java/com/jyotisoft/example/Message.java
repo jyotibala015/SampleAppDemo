@@ -3,7 +3,7 @@ package com.jyotisoft.example;
 public class Message {
 	private String user ="Durga";
 	private int a = 10;
- 
+	private int b = 110;
 	public String getUser() {
 		return user;
 	}
